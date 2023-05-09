@@ -1,0 +1,21 @@
+<resources>
+    <string name="perfil">Seleccione: </string>
+    <string-array name="perfiles">
+        <item>Administrado</item>
+        <item>Usuario</item>
+    </string-array>
+
+    <string name="pais">Seleccione: </string>
+    <string-array name="paises">
+        <item>Administrado</item>
+        <item>Usuario</item>
+    </string-array>
+
+    <string name="departamento">Seleccione: </string>
+    <string-array name="depa">
+        <item>Administrado</item>
+        <item>Usuario</item>
+    </string-array>
+
+</resources>
+
